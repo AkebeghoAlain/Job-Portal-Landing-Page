@@ -13,26 +13,6 @@ Technologies Used
 - HTML5: For structuring the webpage.
 - CSS3: For styling and layout.
 
-Installation & Usage
-1. Clone the repository:
-   git clone https://github.com/AkebeghoAlain/Job-Portal-Landing-Page.git
-2. Navigate to the project folder:
-
-   cd job-portal
-   
-3. Open the "index.html" file in a web browser.
-
-Folder Structure
-
-job-portal/
-├── assets/
-│   ├── images/   # Contains website images
-│   ├── icons/    # Contains social media icons
-│   └── style.css # Main stylesheet
-├── index.html    # Main HTML file
-└── README.md     # Project documentation
-
-
 Future Improvements
 - Implement JavaScript for interactive elements.
 - Add a backend for user authentication and job listings.
