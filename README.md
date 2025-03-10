@@ -15,7 +15,7 @@ Technologies Used
 
 Installation & Usage
 1. Clone the repository:
-   git clone https://github.com/yourusername/job-portal.git
+   git clone https://github.com/AkebeghoAlain/Job-Portal-Landing-Page.git
 2. Navigate to the project folder:
 
    cd job-portal
@@ -42,5 +42,5 @@ Contributing
 If you'd like to contribute, feel free to fork this repository and submit a pull request.
 
 Author: AKEBEGHO ALAIN A.  
-GitHub: [[AkebeghoAlain]((https://github.com/AkebeghoAlain))
+GitHub: https://github.com/AkebeghoAlain
 
